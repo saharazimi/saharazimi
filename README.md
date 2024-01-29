@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @saharazimi
+- 👀  I’m interested in web devlopement 
+- 🌱 I’m currently learning vue js
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me saazimiiii@gmail.com
